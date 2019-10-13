@@ -8,6 +8,6 @@
 	</settings>
 	
 	<plugins>
-		<plugin interceptor="org.imooc.dao.interceptor.PageInterceptor"/>
+		<plugin interceptor="org.lcc.dao.interceptor.PageInterceptor"/>
 	</plugins>
 </configuration>
